@@ -1,11 +1,9 @@
 var chomp=require('./lib/chomp.js');
-
-
 chomp.bite(step1,step2)
 chomp.bite(step3)
 
 chomp.run({},function(err,result){
-    var x;
+    console.log(result);
 })
 
 function step1(backpack,res,next){
