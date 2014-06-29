@@ -1,0 +1,24 @@
+{
+  "name": "kwaai-chomp",
+  "version": "0.0.1",
+  "description": "A connect like calculation engine",
+  "main": "./index.js",
+  "author": {
+    "name": "Martin Naude",
+    "email": "martin@entelect.co.za"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martinza78/kwaai-chomp"
+  },
+  "dependencies": {
+
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/martinza78/kwaai-chomp",
+  "_id": "kwaai-chomp@0.0.1",
+  "_from": "kwaai-chomp@"
+}
