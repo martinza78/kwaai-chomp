@@ -1,3 +1,4 @@
+
 var chomp=require('./lib/chomp.js');
 chomp.bite(step1,step2)
 chomp.bite(step3)
@@ -19,3 +20,4 @@ function step2(backpack,res,next){
 function step3(backpack,res,next){
     res(backpack.a+backpack.b);
 }
+
