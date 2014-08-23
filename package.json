@@ -1,6 +1,6 @@
 {
   "name": "kwaai-chomp",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A connect like calculation engine",
   "main": "./index.js",
   "author": {
@@ -19,6 +19,6 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/martinza78/kwaai-chomp",
-  "_id": "kwaai-chomp@0.0.4",
+  "_id": "kwaai-chomp@0.0.5",
   "_from": "kwaai-chomp@"
 }
